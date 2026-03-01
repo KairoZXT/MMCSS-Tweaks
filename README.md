@@ -1,5 +1,5 @@
-Automatically tweaks System Profile Settings for the peak performance and stability
+Automatically tweaks System Profile Settings for peak performance and stability
 
 This includes Win32Seperation, LazyMode, NetworkThrottlingIndex and MMCSS
 
-It has explanations of what each tweak does in its source code
+Inside the batch file I have included detailed explanations of what each tweak does and the optimal value
