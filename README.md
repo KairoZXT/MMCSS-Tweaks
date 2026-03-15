@@ -1,5 +1,11 @@
 # ⚡ MMCSS Tweaks
 
+💬 **Community & Support**
+
+Join the Discord server for help, updates, and optimization. 
+
+👉 [Join the Discord](https://discord.gg/2MDj4hw7qX)
+
 # 👏 About
 
 MMCSS Tweaks is an open-source Windows batch utility that automatically optimizes key Multimedia Class Scheduler Service (MMCSS) system profile settings for improved performance, lower latency, and better system responsiveness.
