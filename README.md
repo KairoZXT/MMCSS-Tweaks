@@ -52,7 +52,7 @@ Administrator privileges
 
 Basic understanding of Windows optimization (recommended)
 
-❓ How to Use
+# ❓ How to Use
 
 Go to the Releases section of this repository
 
